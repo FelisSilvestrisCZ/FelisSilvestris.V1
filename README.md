@@ -8,3 +8,7 @@ The motivation for the return of the cat to the Czech countryside is multifacete
 The Felis silvestris project therefore represents a unique opportunity to study an important species in its natural habitat, and to contribute to its conservation.
 
 Go to www.felissilvestris.cz for further information about the project.
+
+## Credits
+The project is financed by the Nature Conservation Fund.
+Supported by [A VIRTÙ RESEARCH & TECHNOLOGIES s.r.o.](https://avirtu.net)
