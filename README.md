@@ -11,4 +11,5 @@ Go to www.felissilvestris.cz for further information about the project.
 
 ## Credits
 The project is financed by the Nature Conservation Fund.
+
 Supported by [A VIRTÙ RESEARCH & TECHNOLOGIES s.r.o.](https://avirtu.net)
